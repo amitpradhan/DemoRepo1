@@ -1,0 +1,13 @@
+steps for push- 
+1. Initialize git -
+   git init
+2. Git add remote origin <url> 
+   git remote add origin https://github.com/amitpradhan/DemoRepo1.git
+3. git status
+4. Add the project -
+   git add .
+5. git status
+6. commit -
+   git commit -m "test"
+7. Pust the code to git - 
+   git push origin master	
